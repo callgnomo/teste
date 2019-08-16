@@ -3,5 +3,5 @@ Imprime a mensagem "teste ok" na tela
 
 ## Instalação
 ```bash
-call install teste && basic install controller view
+basic install controller view && call install teste 
 ```
