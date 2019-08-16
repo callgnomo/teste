@@ -1,3 +1,3 @@
 <?php
-$data['msg']='HMVC teste ok';
+$data['msg']='teste ok';
 view('teste/home',$data);
